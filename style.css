@@ -1,0 +1,9 @@
+.grad1 {
+    background-size: 180% 180%;
+  animation: gradient-animation 18s ease infinite;
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
+  }
+ .container{
+    height: 45%;
+    width: 45%;
+ }
